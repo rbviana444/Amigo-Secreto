@@ -1,6 +1,5 @@
 # 🎁 Amigo Secreto
-
-Projeto simples em HTML, CSS e JavaScript para realizar sorteio de **Amigo Secreto**.
+Projeto simples em HTML, CSS e JavaScript para realizar sorteio de Amigo Secreto.
 
 ## 🚀 Funcionalidades
 - Adicionar nomes de participantes  
@@ -9,25 +8,15 @@ Projeto simples em HTML, CSS e JavaScript para realizar sorteio de **Amigo Secre
 - Exibir os pares sorteados na tela  
 
 ## 📂 Estrutura do Projeto
-```
-📦 amigo-secreto
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┗ 📜 script.js
-```
+📦 amigo-secreto  
+ ┣ 📜 index.html  
+ ┣ 📜 style.css  
+ ┗ 📜 script.js  
 
 ## 🖼️ Captura de Tela
-![Exemplo do Sorteio](https://via.placeholder.com/600x300?text=Captura+do+Projeto)
+Exemplo do Sorteio (adicione aqui a imagem depois que rodar o projeto 😉)  
 
 ## ▶️ Como Executar
 1. Baixe ou clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
-   ```
-2. Abra o arquivo `index.html` no navegador.  
-3. Adicione os nomes e clique em **Sortear** 🎲.  
-
-## 🛠️ Tecnologias
-- HTML5  
-- CSS3  
-- JavaScript  
+   git clone https://github.com/rbviana444/Amigo-Secreto.git
