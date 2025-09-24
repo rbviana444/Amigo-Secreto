@@ -31,6 +31,3 @@ Projeto simples em HTML, CSS e JavaScript para realizar sorteio de **Amigo Secre
 - HTML5  
 - CSS3  
 - JavaScript  
-
----
-
